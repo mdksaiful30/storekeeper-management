@@ -22,13 +22,13 @@ This Laravel project is designed to serve as a basic store management system for
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/seo-asif/storekeeper_product_management.git
+   git clone https://github.com/mdksaiful30/storekeeper-management.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd laravel-store-management
+   cd storekeeper-management
    ```
 
 3. Install dependencies:
